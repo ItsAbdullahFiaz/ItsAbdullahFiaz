@@ -1,8 +1,5 @@
 <h1 align="center">Hi there! I'm Abdullah Fiaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <br>
-   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=800&lines=Currently+Working+as+a+Full-Stack+Developer;Open-Source+Developer;Nice+to+meet+you...)
-<br>
 
    ## 👨🏻‍💻 About Me:
 
