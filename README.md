@@ -27,8 +27,9 @@ With a passion for continuous learning, I believe in self-education and constant
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="32" height="32"/>
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="express" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
 </p>
