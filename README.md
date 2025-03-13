@@ -2,7 +2,7 @@
 
    ## 👨🏻‍💻 About Me:
 
-I’m a software developer with 4 years of experience, specializing in React Native and frontend technologies while also having a strong grasp of backend development. I focus on building functional and visually appealing applications, ensuring both performance and design go hand in hand.
+I'm a software developer with 4 years of experience, specializing in mobile app development and frontend technologies while also having a strong grasp of backend development. I focus on building functional and visually appealing applications, ensuring both performance and design go hand in hand.
 
 With a passion for continuous learning, I believe in self-education and constantly seek opportunities to grow, refine my skills, and stay ahead in the ever-evolving tech landscape.
 
@@ -22,12 +22,13 @@ With a passion for continuous learning, I believe in self-education and constant
 ### :wrench: The Tools I use
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="32" height="32"/>
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="32" height="32"/>
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
 </p>
