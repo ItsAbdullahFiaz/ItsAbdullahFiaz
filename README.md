@@ -6,8 +6,6 @@
 
    ## 👨🏻‍💻 About Me:
 
-<img  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300px" align="right" />
-
 I’m a software developer with 4 years of experience, specializing in React Native and frontend technologies while also having a strong grasp of backend development. I focus on building functional and visually appealing applications, ensuring both performance and design go hand in hand.
 
 With a passion for continuous learning, I believe in self-education and constantly seek opportunities to grow, refine my skills, and stay ahead in the ever-evolving tech landscape.
