@@ -28,8 +28,8 @@ With a passion for continuous learning, I believe in self-education and constant
   <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="32" height="32"/>
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="32" height="32"/>
   <img src="https://icongr.am/devicon/express-original.svg?size=128&color=808080" alt="express" width="32" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
